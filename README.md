@@ -5,14 +5,14 @@
 - seaborn
 
 ## Recursos utilizados
-- Standard_D2_v2 Para la ejecucion de los notebooks y para el entrenamiento de los modelos
-- Standard_D2as_v4 Para el uso de los endpoints
+- Standard_D2_v2 Para la ejecucion de los notebooks y para el entrenamiento de los modelos.
+- Standard_D2as_v4 Para el uso de los endpoints.
 
 ## Dataset utilizado
-- Se esta utilizando un dataset relacionado con el ticanic (mas info: https://www.kaggle.com/competitions/titanic)
+- Se esta utilizando un dataset relacionado con el ticanic (mas info: https://www.kaggle.com/competitions/titanic).
 
 ## Objetivo
-- Entrenar un modelo capaz de clasificar a la persona si sobrevivio o no dependiendo de los datos que se le mande
+- Esta predecira de acuerdo a una serie de parametros si una persona sobreviviria o no mediante un modelo de preccion de clasificacion.
 
 ## Resultados
 
